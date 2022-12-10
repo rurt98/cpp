@@ -1,0 +1,1 @@
+ lista.agregar(2, 3);
